@@ -1,0 +1,79 @@
+/*Heading*/
+
+.titulo {
+  font-family: helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+}
+.slogan {
+  font-family: helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;
+  font-size: 15px;
+}
+.subtitulo {
+  font-family: helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;
+  font-size: 15px;
+}
+
+.redes{
+  background: url(Images/back.png) no-repeat right top;
+}
+
+/*Menu*/
+.inicio, .inicio a:hover, .inicio a:link, .inicio a:active, .inicio a:visited{
+  color: white;
+  text-decoration: none;
+  background-color: #37bdc0;
+  text-align: center;
+  align-items: center;
+}
+.menu{
+  background:#f36525;
+  color: white;
+  margin-top: 5px;
+  padding-top: 5px;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.menu-btn a {
+  text-decoration: none;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+}
+.menu-btn a:hover{
+  color:#f88d2f;
+  text-decoration: none;
+
+}
+
+/*Content*/
+
+.vids_pad{
+  padding-top: 20px;
+}
+
+/*footer*/
+.foot {
+  background-color: #37bdc0;
+  padding-top: 20px;
+  margin-top: 20px;
+}
+.foot-info{
+  text-align: center;
+  font-family: helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;
+  font-size: 15px;
+  color: white;
+}
+.foot-links, .foot-links a:hover, .foot-links a:visited, .foot-links a:link, .foot-links a:active{
+  color: white;
+  padding-top: 10px;
+  text-align: center;
+  font-family: helvetica-w01-roman,helvetica-w02-roman,helvetica-lt-w10-roman,sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+
+
+}
